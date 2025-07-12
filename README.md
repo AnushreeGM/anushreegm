@@ -14,7 +14,7 @@
 ✨ Creating bugs since 2025 – learning from every crash and log line! 💥🐛<br><br>
 
 📚 I'm currently learning:<br>
-- AWS core services (EC2, S3, IAM, VPC)<br>
+- AWS core services (EC2, S3, IAM, VPC, CodePipeline, Codebuild)<br>
 - Docker & Kubernetes basics<br>
 - CI/CD with Jenkins and GitHub Actions<br>
 - Infrastructure as Code using Terraform<br><br>
