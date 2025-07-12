@@ -6,6 +6,10 @@
 
 ###
 
+📫 How to reach me **anushreegm456@gmail.com**
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
